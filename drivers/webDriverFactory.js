@@ -34,11 +34,15 @@ function buildChromeOptions() {
   return options;
 }
 async function createDriver() {
-  const driver = await new Builder()
+  const builder = new Builder()
     .forBrowser("chrome")
-    .setChromeOptions(buildChromeOptions())
-    .setChromeService(new chrome.ServiceBuilder(chromedriver.path))
-    .build();
+    .setChromeOptions(buildChromeOptions());
+
+  if (process.env.USE_SELENIUM_MANAGER !== "true") {
+    builder.setChromeService(new chrome.ServiceBuilder(chromedriver.path));
+  }
+
+  const driver = await builder.build();
 
   if (env.implicitTimeout > 0) {
     await driver.manage().setTimeouts({ implicit: env.implicitTimeout });
