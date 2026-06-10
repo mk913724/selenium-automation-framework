@@ -1,0 +1,235 @@
+2026-04-17 03:19:38 [INFO] WebDriver started with browser=chrome, headless=true
+2026-04-17 03:19:41 [INFO] Opened URL: https://rahulshettyacademy.com/loginpagePractise/
+2026-04-17 03:19:41 [INFO] Entered value into username input.
+2026-04-17 03:19:41 [INFO] Entered value into password input.
+2026-04-17 03:19:42 [INFO] Clicked sign in button.
+2026-04-17 03:19:57 [ERROR] Screenshot captured for failed test: C:\Selenium_Rahul shetty\reports\screenshots\rahul_shetty_academy_purchase_flow_should_login__add_a_dynamic_product_to_cart__and_complete_the_purchase.png
+2026-04-17 03:19:58 [INFO] WebDriver session closed.
+2026-04-17 03:21:05 [INFO] WebDriver started with browser=chrome, headless=true
+2026-04-17 03:21:08 [INFO] Opened URL: https://rahulshettyacademy.com/loginpagePractise/
+2026-04-17 03:21:08 [INFO] Entered value into username input.
+2026-04-17 03:21:09 [INFO] Entered value into password input.
+2026-04-17 03:21:09 [INFO] Clicked sign in button.
+2026-04-17 03:21:25 [ERROR] Screenshot captured for failed test: C:\Selenium_Rahul shetty\reports\screenshots\rahul_shetty_academy_purchase_flow_should_login__add_a_dynamic_product_to_cart__and_complete_the_purchase.png
+2026-04-17 03:21:25 [INFO] WebDriver session closed.
+2026-04-17 03:23:05 [INFO] WebDriver started with browser=chrome, headless=true
+2026-04-17 03:23:07 [INFO] Opened URL: https://rahulshettyacademy.com/loginpagePractise/
+2026-04-17 03:23:08 [INFO] Entered value into username input.
+2026-04-17 03:23:08 [INFO] Entered value into password input.
+2026-04-17 03:23:08 [INFO] Clicked sign in button.
+2026-04-17 03:23:29 [ERROR] Screenshot captured for failed test: C:\Selenium_Rahul shetty\reports\screenshots\rahul_shetty_academy_purchase_flow_should_login__add_a_dynamic_product_to_cart__and_complete_the_purchase.png
+2026-04-17 03:23:29 [INFO] WebDriver session closed.
+2026-04-17 03:24:16 [INFO] WebDriver started with browser=chrome, headless=false
+2026-04-17 03:24:20 [INFO] Opened URL: https://rahulshettyacademy.com/loginpagePractise/
+2026-04-17 03:24:20 [INFO] Entered value into username input.
+2026-04-17 03:24:21 [INFO] Entered value into password input.
+2026-04-17 03:24:21 [INFO] Clicked sign in button.
+2026-04-17 03:24:24 [INFO] Available products: iphone X, Samsung Note 8, Nokia Edge, Blackberry
+2026-04-17 03:24:24 [INFO] Added product to cart: iphone X
+2026-04-17 03:24:24 [INFO] Clicked checkout button.
+2026-04-17 03:24:24 [INFO] Verified product in cart: iphone X
+2026-04-17 03:24:24 [INFO] Clicked cart checkout button.
+2026-04-17 03:24:25 [INFO] Entered value into country input.
+2026-04-17 03:24:30 [INFO] Clicked country suggestion.
+2026-04-17 03:24:30 [INFO] Clicked purchase button.
+2026-04-17 03:24:31 [INFO] WebDriver session closed.
+2026-04-17 03:25:18 [INFO] WebDriver started with browser=chrome, headless=true
+2026-04-17 03:25:22 [INFO] Opened URL: https://rahulshettyacademy.com/loginpagePractise/
+2026-04-17 03:25:22 [INFO] Entered value into username input.
+2026-04-17 03:25:23 [INFO] Entered value into password input.
+2026-04-17 03:25:23 [INFO] Clicked sign in button.
+2026-04-17 03:25:27 [INFO] Available products: iphone X, Samsung Note 8, Nokia Edge, Blackberry
+2026-04-17 03:25:27 [INFO] Added product to cart: iphone X
+2026-04-17 03:25:28 [INFO] Clicked checkout button.
+2026-04-17 03:25:28 [INFO] Verified product in cart: iphone X
+2026-04-17 03:25:28 [INFO] Clicked cart checkout button.
+2026-04-17 03:25:28 [INFO] Entered value into country input.
+2026-04-17 03:25:33 [INFO] Clicked country suggestion.
+2026-04-17 03:25:33 [INFO] Clicked purchase button.
+2026-04-17 03:25:34 [INFO] WebDriver session closed.
+2026-04-17 03:27:21 [INFO] WebDriver started with browser=chrome, headless=false
+2026-04-17 03:27:24 [INFO] Opened URL: https://rahulshettyacademy.com/loginpagePractise/
+2026-04-17 03:27:24 [INFO] Entered value into username input.
+2026-04-17 03:27:25 [INFO] Entered value into password input.
+2026-04-17 03:27:25 [INFO] Clicked sign in button.
+2026-04-17 03:27:28 [INFO] Available products: iphone X, Samsung Note 8, Nokia Edge, Blackberry
+2026-04-17 03:27:28 [INFO] Added product to cart: iphone X
+2026-04-17 03:27:28 [INFO] Clicked checkout button.
+2026-04-17 03:27:28 [INFO] Verified product in cart: iphone X
+2026-04-17 03:27:28 [INFO] Clicked cart checkout button.
+2026-04-17 03:27:29 [INFO] Entered value into country input.
+2026-04-17 03:27:34 [INFO] Clicked country suggestion.
+2026-04-17 03:27:34 [INFO] Clicked purchase button.
+2026-04-17 03:27:35 [INFO] WebDriver session closed.
+2026-04-18 04:46:28 [INFO] WebDriver started with browser=chrome, headless=false
+2026-04-18 04:46:31 [INFO] Opened URL: https://rahulshettyacademy.com/loginpagePractise/
+2026-04-18 04:46:31 [INFO] Entered value into username input.
+2026-04-18 04:46:31 [INFO] Entered value into password input.
+2026-04-18 04:46:32 [INFO] Clicked sign in button.
+2026-04-18 04:46:35 [INFO] Available products: iphone X, Samsung Note 8, Nokia Edge, Blackberry
+2026-04-18 04:46:35 [INFO] Added product to cart: iphone X
+2026-04-18 04:46:35 [INFO] Clicked checkout button.
+2026-04-18 04:46:35 [INFO] Verified product in cart: iphone X
+2026-04-18 04:46:35 [INFO] Clicked cart checkout button.
+2026-04-18 04:46:36 [INFO] Entered value into country input.
+2026-04-18 04:46:41 [INFO] Clicked country suggestion.
+2026-04-18 04:46:41 [INFO] Clicked purchase button.
+2026-04-18 04:46:42 [INFO] WebDriver session closed.
+2026-04-18 05:24:10 [INFO] WebDriver started with browser=chrome, headless=true
+2026-04-18 05:24:13 [INFO] Opened URL: https://rahulshettyacademy.com/loginpagePractise/
+2026-04-18 05:24:13 [INFO] Entered value into username input.
+2026-04-18 05:24:14 [INFO] Entered value into password input.
+2026-04-18 05:24:14 [INFO] Clicked sign in button.
+2026-04-18 05:24:17 [INFO] Available products: iphone X, Samsung Note 8, Nokia Edge, Blackberry
+2026-04-18 05:24:17 [INFO] Added product to cart: iphone X
+2026-04-18 05:24:18 [INFO] Clicked checkout button.
+2026-04-18 05:24:18 [INFO] Verified product in cart: iphone X
+2026-04-18 05:24:18 [INFO] Clicked cart checkout button.
+2026-04-18 05:24:18 [INFO] Entered value into country input.
+2026-04-18 05:24:23 [INFO] Clicked country suggestion.
+2026-04-18 05:24:23 [INFO] Clicked purchase button.
+2026-04-18 05:24:24 [INFO] WebDriver session closed.
+2026-04-18 05:25:30 [INFO] WebDriver started with browser=chrome, headless=false
+2026-04-18 05:25:32 [INFO] Opened URL: https://rahulshettyacademy.com/loginpagePractise/
+2026-04-18 05:25:33 [INFO] Entered value into username input.
+2026-04-18 05:25:33 [INFO] Entered value into password input.
+2026-04-18 05:25:33 [INFO] Clicked sign in button.
+2026-04-18 05:25:36 [INFO] Available products: iphone X, Samsung Note 8, Nokia Edge, Blackberry
+2026-04-18 05:25:36 [INFO] Added product to cart: iphone X
+2026-04-18 05:25:36 [INFO] Clicked checkout button.
+2026-04-18 05:25:36 [INFO] Verified product in cart: iphone X
+2026-04-18 05:25:36 [INFO] Clicked cart checkout button.
+2026-04-18 05:25:37 [INFO] Entered value into country input.
+2026-04-18 05:25:42 [INFO] Clicked country suggestion.
+2026-04-18 05:25:42 [INFO] Clicked purchase button.
+2026-04-18 05:25:43 [INFO] WebDriver session closed.
+2026-06-09 15:44:03 [INFO] WebDriver started with browser=chrome, headless=false
+2026-06-09 15:44:07 [INFO] Opened URL: https://rahulshettyacademy.com/loginpagePractise/
+2026-06-09 15:44:07 [INFO] Entered value into username input.
+2026-06-09 15:44:07 [INFO] Entered value into password input.
+2026-06-09 15:44:08 [INFO] Clicked sign in button.
+2026-06-09 15:44:13 [INFO] Available products: iphone X, Samsung Note 8, Nokia Edge, Blackberry
+2026-06-09 15:44:14 [INFO] Added product to cart: iphone X
+2026-06-09 15:44:14 [INFO] Clicked checkout button.
+2026-06-09 15:44:14 [INFO] Verified product in cart: iphone X
+2026-06-09 15:44:14 [INFO] Clicked cart checkout button.
+2026-06-09 15:44:14 [INFO] Entered value into country input.
+2026-06-09 15:44:19 [INFO] Clicked country suggestion.
+2026-06-09 15:44:19 [INFO] Clicked purchase button.
+2026-06-09 15:44:20 [INFO] WebDriver session closed.
+2026-06-09 16:22:06 [INFO] WebDriver started with browser=chrome, headless=false
+2026-06-09 16:22:14 [INFO] Opened URL: https://rahulshettyacademy.com/loginpagePractise/
+2026-06-09 16:22:15 [INFO] Entered value into username input.
+2026-06-09 16:22:15 [INFO] Entered value into password input.
+2026-06-09 16:22:15 [INFO] Clicked sign in button.
+2026-06-09 16:22:19 [INFO] Available products: iphone X, Samsung Note 8, Nokia Edge, Blackberry
+2026-06-09 16:22:19 [INFO] Added product to cart: iphone X
+2026-06-09 16:22:19 [INFO] Clicked checkout button.
+2026-06-09 16:22:19 [INFO] Verified product in cart: iphone X
+2026-06-09 16:22:20 [INFO] Clicked cart checkout button.
+2026-06-09 16:22:20 [INFO] Entered value into country input.
+2026-06-09 16:22:25 [INFO] Clicked country suggestion.
+2026-06-09 16:22:25 [INFO] Clicked purchase button.
+2026-06-09 16:22:26 [INFO] WebDriver session closed.
+2026-06-09 16:23:10 [INFO] WebDriver started with browser=chrome, headless=false
+2026-06-09 16:23:15 [INFO] Opened URL: https://rahulshettyacademy.com/loginpagePractise/
+2026-06-09 16:23:15 [INFO] Entered value into username input.
+2026-06-09 16:23:16 [INFO] Entered value into password input.
+2026-06-09 16:23:16 [INFO] Clicked sign in button.
+2026-06-09 16:23:20 [INFO] Available products: iphone X, Samsung Note 8, Nokia Edge, Blackberry
+2026-06-09 16:23:21 [INFO] Added product to cart: iphone X
+2026-06-09 16:23:21 [INFO] Clicked checkout button.
+2026-06-09 16:23:21 [INFO] Verified product in cart: iphone X
+2026-06-09 16:23:21 [INFO] Clicked cart checkout button.
+2026-06-09 16:23:22 [INFO] Entered value into country input.
+2026-06-09 16:23:27 [INFO] Clicked country suggestion.
+2026-06-09 16:23:27 [INFO] Clicked purchase button.
+2026-06-09 16:23:28 [INFO] WebDriver session closed.
+2026-06-09 18:20:23 [INFO] WebDriver started with browser=chrome, headless=false
+2026-06-09 18:20:26 [INFO] Opened URL: https://rahulshettyacademy.com/loginpagePractise/
+2026-06-09 18:20:27 [INFO] Entered value into username input.
+2026-06-09 18:20:27 [INFO] Entered value into password input.
+2026-06-09 18:20:27 [INFO] Clicked sign in button.
+2026-06-09 18:20:28 [ERROR] Screenshot captured for failed test: C:\Selenium_Rahul shetty\reports\screenshots\rahul_shetty_academy_purchase_flow_should_login__add_a_dynamic_product_to_cart__and_complete_the_purchase.png
+2026-06-09 18:20:28 [INFO] WebDriver session closed.
+2026-06-09 18:23:04 [INFO] WebDriver started with browser=chrome, headless=false
+2026-06-09 18:23:07 [INFO] Opened URL: https://rahulshettyacademy.com/loginpagePractise/
+2026-06-09 18:23:07 [INFO] Entered value into username input.
+2026-06-09 18:23:08 [INFO] Entered value into password input.
+2026-06-09 18:23:08 [INFO] Clicked sign in button.
+2026-06-09 18:23:12 [ERROR] Screenshot captured for failed test: C:\Selenium_Rahul shetty\reports\screenshots\rahul_shetty_academy_purchase_flow_should_login__add_a_dynamic_product_to_cart__and_complete_the_purchase.png
+2026-06-09 18:23:13 [INFO] WebDriver session closed.
+2026-06-09 18:27:55 [INFO] WebDriver started with browser=chrome, headless=false
+2026-06-09 18:27:59 [INFO] Opened URL: https://rahulshettyacademy.com/loginpagePractise/
+2026-06-09 18:28:00 [INFO] Entered value into username input.
+2026-06-09 18:28:00 [INFO] Entered value into password input.
+2026-06-09 18:28:00 [INFO] Clicked sign in button.
+2026-06-09 18:28:04 [ERROR] Screenshot captured for failed test: C:\Selenium_Rahul shetty\reports\screenshots\rahul_shetty_academy_purchase_flow_should_login__add_a_dynamic_product_to_cart__and_complete_the_purchase.png
+2026-06-09 18:28:04 [INFO] WebDriver session closed.
+2026-06-09 18:29:23 [INFO] WebDriver started with browser=chrome, headless=false
+2026-06-09 18:29:26 [INFO] Opened URL: https://rahulshettyacademy.com/loginpagePractise/
+2026-06-09 18:29:27 [INFO] Entered value into username input.
+2026-06-09 18:29:27 [INFO] Entered value into password input.
+2026-06-09 18:29:27 [INFO] Clicked sign in button.
+2026-06-09 18:29:32 [INFO] Available products: iphone X, Samsung Note 8, Nokia Edge, Blackberry
+2026-06-09 18:29:32 [INFO] Added product to cart: iphone X
+2026-06-09 18:29:32 [INFO] Clicked checkout button.
+2026-06-09 18:29:32 [INFO] Verified product in cart: iphone X
+2026-06-09 18:29:32 [INFO] Clicked cart checkout button.
+2026-06-09 18:29:33 [INFO] Entered value into country input.
+2026-06-09 18:29:38 [INFO] Clicked country suggestion.
+2026-06-09 18:29:38 [INFO] Clicked purchase button.
+2026-06-09 18:29:38 [INFO] WebDriver session closed.
+2026-06-09 18:33:42 [INFO] WebDriver started with browser=chrome, headless=false
+2026-06-09 18:33:47 [INFO] Opened URL: https://rahulshettyacademy.com/loginpagePractise/
+2026-06-09 18:33:47 [INFO] Entered value into username input.
+2026-06-09 18:33:48 [INFO] Entered value into password input.
+2026-06-09 18:33:48 [INFO] Clicked sign in button.
+2026-06-09 18:33:52 [INFO] Available products: iphone X, Samsung Note 8, Nokia Edge, Blackberry
+2026-06-09 18:33:52 [INFO] Added product to cart: iphone X
+2026-06-09 18:33:52 [INFO] Clicked checkout button.
+2026-06-09 18:33:52 [INFO] Verified product in cart: iphone X
+2026-06-09 18:33:53 [INFO] Clicked cart checkout button.
+2026-06-09 18:33:53 [INFO] Entered value into country input.
+2026-06-09 18:33:58 [INFO] Clicked country suggestion.
+2026-06-09 18:33:58 [INFO] Clicked purchase button.
+2026-06-09 18:33:59 [INFO] WebDriver session closed.
+2026-06-09 22:32:47 [INFO] WebDriver started with browser=chrome, headless=false
+2026-06-09 22:33:48 [INFO] Opened URL: https://rahulshettyacademy.com/loginpagePractise/
+2026-06-09 22:33:49 [ERROR] Screenshot captured for failed test: C:\Selenium_Rahul shetty\reports\screenshots\rahul_shetty_academy_purchase_flow_should_login__add_a_dynamic_product_to_cart__and_complete_the_purchase.png
+2026-06-09 22:33:49 [INFO] WebDriver session closed.
+2026-06-09 22:34:04 [INFO] WebDriver started with browser=chrome, headless=false
+2026-06-09 22:35:01 [INFO] Opened URL: https://rahulshettyacademy.com/loginpagePractise/
+2026-06-09 22:35:02 [INFO] Entered value into username input.
+2026-06-09 22:35:02 [INFO] Entered value into password input.
+2026-06-09 22:35:02 [INFO] Clicked sign in button.
+2026-06-09 22:35:06 [ERROR] Screenshot captured for failed test: C:\Selenium_Rahul shetty\reports\screenshots\rahul_shetty_academy_purchase_flow_should_login__add_a_dynamic_product_to_cart__and_complete_the_purchase.png
+2026-06-09 22:35:07 [INFO] WebDriver session closed.
+2026-06-10 10:03:03 [INFO] WebDriver started with browser=chrome, headless=false
+2026-06-10 10:03:05 [INFO] Opened URL: https://rahulshettyacademy.com/loginpagePractise/
+2026-06-10 10:03:06 [INFO] Entered value into username input.
+2026-06-10 10:03:06 [INFO] Entered value into password input.
+2026-06-10 10:03:06 [INFO] Clicked sign in button.
+2026-06-10 10:03:09 [INFO] Available products: iphone X, Samsung Note 8, Nokia Edge, Blackberry
+2026-06-10 10:03:09 [INFO] Added product to cart: iphone X
+2026-06-10 10:03:09 [INFO] Clicked checkout button.
+2026-06-10 10:03:09 [INFO] Verified product in cart: iphone X
+2026-06-10 10:03:10 [INFO] Clicked cart checkout button.
+2026-06-10 10:03:10 [INFO] Entered value into country input.
+2026-06-10 10:03:15 [INFO] Clicked country suggestion.
+2026-06-10 10:03:15 [INFO] Clicked purchase button.
+2026-06-10 10:03:16 [INFO] WebDriver session closed.
+2026-06-10 10:20:04 [INFO] WebDriver started with browser=chrome, headless=false
+2026-06-10 10:20:06 [INFO] Opened URL: https://rahulshettyacademy.com/loginpagePractise/
+2026-06-10 10:20:07 [INFO] Entered value into username input.
+2026-06-10 10:20:07 [INFO] Entered value into password input.
+2026-06-10 10:20:07 [INFO] Clicked sign in button.
+2026-06-10 10:20:10 [INFO] Available products: iphone X, Samsung Note 8, Nokia Edge, Blackberry
+2026-06-10 10:20:10 [INFO] Added product to cart: iphone X
+2026-06-10 10:20:10 [INFO] Clicked checkout button.
+2026-06-10 10:20:10 [INFO] Verified product in cart: iphone X
+2026-06-10 10:20:11 [INFO] Clicked cart checkout button.
+2026-06-10 10:20:11 [INFO] Entered value into country input.
+2026-06-10 10:20:16 [INFO] Clicked country suggestion.
+2026-06-10 10:20:16 [INFO] Clicked purchase button.
+2026-06-10 10:20:17 [INFO] WebDriver session closed.

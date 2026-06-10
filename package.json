@@ -1,0 +1,38 @@
+{
+  "name": "selenium-js-pom-framework",
+  "version": "1.0.0",
+  "description": "Production-ready Selenium WebDriver automation framework using JavaScript, Mocha, Chai, and Page Object Model.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --config .mocharc.js",
+    "test:headless": "cross-env HEADLESS=true mocha --config .mocharc.js",
+    "ci:test": "npm run test:headless",
+    "report:open": "start \"\" reports\\mochawesome.html"
+  },
+  "keywords": [
+    "selenium",
+    "webdriver",
+    "mocha",
+    "chai",
+    "automation",
+    "qa",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "selenium-webdriver": "^4.44.0",
+    "winston": "^3.17.0"
+  },
+  "devDependencies": {
+    "chai": "^4.5.0",
+    "chromedriver": "^149.0.2",
+    "cross-env": "^7.0.3",
+    "mocha": "^10.8.2",
+    "mochawesome": "^7.1.3"
+  }
+}
